@@ -1,5 +1,5 @@
 import React from 'react';
-import utils from './utils';
+import utils from '../modules/math-utils';
 import useGameState from './useGameState';
 import StarsDisplay from './starsDisplay';
 import PlayAgain from './playAgain';
